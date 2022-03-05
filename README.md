@@ -16,6 +16,8 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882888-1d673062-09fb-49a6-a2ad-6bc6af8a14f9.png)
 9.Query to display the region's details and the province details from the region table to show the total confirmed cases
 ![image](https://user-images.githubusercontent.com/100999712/156882958-ed7f30e3-f955-457d-af91-9b863d3cda59.png)
+10.Query to display total hospitalized patients, total confirmed cases, and total current confirmed cases
+![image](https://user-images.githubusercontent.com/100999712/156883011-d3aa0f50-f2fd-44d1-950f-7d684b3c23be.png)
 
 
 
