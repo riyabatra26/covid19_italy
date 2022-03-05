@@ -12,6 +12,9 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882756-5b29b80c-b106-469c-839e-9a2c073d96ba.png)
 7.Query to find the percentages of tests confirmed cases
 ![image](https://user-images.githubusercontent.com/100999712/156882813-ea7e64de-564f-47c3-9128-ff2521b1fad3.png)
+8.Query to find the details of the provision along with the region details
+![image](https://user-images.githubusercontent.com/100999712/156882888-1d673062-09fb-49a6-a2ad-6bc6af8a14f9.png)
+
 
 
 
