@@ -14,6 +14,9 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882813-ea7e64de-564f-47c3-9128-ff2521b1fad3.png)
 8.Query to find the details of the provision along with the region details
 ![image](https://user-images.githubusercontent.com/100999712/156882888-1d673062-09fb-49a6-a2ad-6bc6af8a14f9.png)
+9.Query to display the region's details and the province details from the region table to show the total confirmed cases
+![image](https://user-images.githubusercontent.com/100999712/156882958-ed7f30e3-f955-457d-af91-9b863d3cda59.png)
+
 
 
 
