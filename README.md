@@ -6,6 +6,9 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882563-d597caf5-9e4f-47db-99ed-80c8e89e2fd0.png)
 4.Query to display the details of those regions where the number of deaths is greater than 1500
 ![image](https://user-images.githubusercontent.com/100999712/156882644-9d3e733a-e930-4fa7-be1e-8dbd534748fc.png)
+5.Query to find the positivity rate in the 2020 year
+![image](https://user-images.githubusercontent.com/100999712/156882693-583476fb-6996-45b1-81ea-0670359e37eb.png)
+
 
 
 
