@@ -10,6 +10,8 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882693-583476fb-6996-45b1-81ea-0670359e37eb.png)
 6.Query to find which provinces in Italy have the most confirmed cases?
 ![image](https://user-images.githubusercontent.com/100999712/156882756-5b29b80c-b106-469c-839e-9a2c073d96ba.png)
+7.Query to find the percentages of tests confirmed cases
+![image](https://user-images.githubusercontent.com/100999712/156882813-ea7e64de-564f-47c3-9128-ff2521b1fad3.png)
 
 
 
