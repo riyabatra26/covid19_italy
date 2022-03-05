@@ -8,6 +8,8 @@
 ![image](https://user-images.githubusercontent.com/100999712/156882644-9d3e733a-e930-4fa7-be1e-8dbd534748fc.png)
 5.Query to find the positivity rate in the 2020 year
 ![image](https://user-images.githubusercontent.com/100999712/156882693-583476fb-6996-45b1-81ea-0670359e37eb.png)
+6.Query to find which provinces in Italy have the most confirmed cases?
+![image](https://user-images.githubusercontent.com/100999712/156882756-5b29b80c-b106-469c-839e-9a2c073d96ba.png)
 
 
 
